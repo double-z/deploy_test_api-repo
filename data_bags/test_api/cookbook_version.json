@@ -1,9 +1,6 @@
 {
   "id": "cookbook_version",
   "test_api_app": {
-    "version": "0.0.1"
-  },
-  "test_api_app-cookbook": {
     "revision": "0.0.4"
   }
 }
