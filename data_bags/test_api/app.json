@@ -1,6 +1,5 @@
 {
   "id": "app",
-  "revision": "master",
+  "revision": "0.0.2",
   "deploy_action": "deploy"
 }
-
